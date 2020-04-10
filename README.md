@@ -10,7 +10,7 @@
 
 pip site: https://pip.pypa.io/en/stable/
 
-Use !pip (<package-name>) to install missing libraries. 
+Use !pip (package-name) to install missing libraries. 
 
 
 ##Usage
